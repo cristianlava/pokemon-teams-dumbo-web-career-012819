@@ -1,4 +1,4 @@
-# Pokemon Teams!
+  # Pokemon Teams!
 
 Here you're going to help us keep track of Pokemon
 trainers at Flatiron School. Through their journey,
